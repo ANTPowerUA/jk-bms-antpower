@@ -4,6 +4,9 @@
 
 **Завантажити:** [JK-BMS-AntPower.apk](https://github.com/ANTPowerUA/jk-bms-antpower/releases/latest/download/JK-BMS-AntPower.apk)
 
+**Інструкція встановлення, підключення до плати й відповіді на запитання:** [https://antpower.com.ua/zastosunok-jk-bms/](https://antpower.com.ua/zastosunok-jk-bms/)
+(російською — [https://antpower.com.ua/ru/zastosunok-jk-bms/](https://antpower.com.ua/ru/zastosunok-jk-bms/))
+
 Що змінено порівняно із заводським застосунком JK BMS:
 - додано українську мову інтерфейсу;
 - виправлено частину російських перекладів.
